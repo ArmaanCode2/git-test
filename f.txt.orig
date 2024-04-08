@@ -1,6 +1,6 @@
 this is feature branch and first commit 
 <<<<<<< HEAD
 this is second commit changes by dev featu 
-
-
-
+=======
+this is second commit in feature by dev master
+>>>>>>> master
