@@ -1,2 +1,2 @@
 this is feature branch and first commit 
-this is second commit in feature branch
+this is second commit in feature by dev master
