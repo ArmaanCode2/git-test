@@ -1,2 +1,3 @@
 this is feature branch and first commit 
+this is to be reverted line
 this is second commit in feature by dev master
